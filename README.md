@@ -1,3 +1,2 @@
 # AM-PM-Super-Market
-WinForms application of virtual marketplace that allows stores to sell their products and allows customers to buy store's products using a "smart buying" algorithm that create the cheapest cart from one or several products.
-Implemented in C#.
+WinForms application of a virtual marketplace, "AM-PM Super Market," that enables stores to sell their products and allows customers to purchase products using a "smart buying" algorithm that creates the cheapest cart from one or several products. The application extensively involves the use of object-oriented principles to ensure efficient and maintainable code structure. Implemented in C#. 
